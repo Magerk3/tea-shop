@@ -35,7 +35,7 @@ header {
     
 }
 .banner {
-    background-image: url(./imgs/img-mission-background.jpg);
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*1h2kupn*_ga*Nzc4MTUyMzIxMy4xNjYwMTkxNDk1*_ga_3LRZM6TM9L*MTY2MTEwMTA3OS4zNi4xLjE2NjExMDEwODUuNTQuMC4w");
     background-repeat: no-repeat;
     position: relative;
     height: 700px;
@@ -99,7 +99,7 @@ figcaption {
     height: 500px;
     max-width: 1200px;
     margin: 40px auto auto auto;
-    background-image: url("./imgs/img-locations-background.jpg");
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*1owdtwh*_ga*Nzc4MTUyMzIxMy4xNjYwMTkxNDk1*_ga_3LRZM6TM9L*MTY2MTEwMTA3OS4zNi4xLjE2NjExMDEwODUuNTQuMC4w");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
